@@ -2,6 +2,7 @@
 
 namespace MatriculaApi.Dtos
 {
+    //Terminando en DTO para indicar que son Data Transfer Objects
     public class MatriculaDto
     {
         [Required]
