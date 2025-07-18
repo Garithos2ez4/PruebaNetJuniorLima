@@ -56,7 +56,7 @@ Manera de Entrega de Proyecto:
 •	En Repositorio GIT 
 •	Enlace Drive Comprimido (zip, rar) 
 
-# 📘 Prueba Técnica - Gestión de Matrículas (.NET 6 API)
+# 📘 Prueba Técnica - Gestión de Matrículas (.NET 8 API)
 
 Este proyecto consiste en una **API RESTful** construida con **ASP.NET Core Web API (.NET 6)** que permite gestionar matrículas de estudiantes en cursos.
 
